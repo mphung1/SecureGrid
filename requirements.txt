@@ -1,0 +1,5 @@
+streamlit
+pandas
+pickleshare
+scikit-learn
+lightgbm
